@@ -4,18 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "68237b024b1b4f45",
+        "id": "783bfb3eeeef6f3f",
         "type": "tabs",
         "children": [
           {
-            "id": "c643850f6e20d846",
+            "id": "01ccb9c8f494a24c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "AGENTS.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "AGENTS"
@@ -67,7 +68,7 @@
             }
           },
           {
-            "id": "e7558a431d7426c5",
+            "id": "319e74a97b0b9ef3",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -93,39 +94,6 @@
         "id": "4db2deac36dd0784",
         "type": "tabs",
         "children": [
-          {
-            "id": "1d6693f060ddfdc0",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "AGENTS.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks"
-            }
-          },
-          {
-            "id": "22f7947a848f1f72",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "AGENTS.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links"
-            }
-          },
           {
             "id": "a96221c1e2ecd3da",
             "type": "leaf",
@@ -161,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AGENTS.md",
+                "file": "Templates/Note.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -185,25 +153,51 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false,
+      "zk-prefixer:Create new unique note": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "c643850f6e20d846",
+  "active": "01ccb9c8f494a24c",
   "lastOpenFiles": [
-    "10 Projects/Personal System/Project.md",
-    "00 Inbox/Inbox.md",
+    "Templates/Note.md",
+    "Templates/Inbox.md",
     "Home.md",
+    "20 Notes/MacOS.md",
+    "20 Notes/AI.md",
+    "20 Notes/Mail.md",
+    "20 Notes/Chrome.md",
+    "20 Notes/Raycast.md",
+    "20 Notes/Warp.md",
+    "20 Notes/Zed IDE.md",
+    "20 Notes/Cursor IDE.md",
+    "10 Projects/Home",
+    "20 Notes/Obsidian.md",
+    "10 Projects/Personal System/Project.md",
     "AGENTS.md",
+    "00 Inbox/Test.md",
+    "00 Inbox/202610040820.md",
+    "00 Inbox/202610040819.md",
     "Templates/Daily.md",
-    "Templates",
-    "90 Archive",
-    "30 Resources",
-    "20 Areas",
-    "10 Projects/Personal System",
-    "10 Projects",
-    "00 Inbox",
-    "Build Log.md",
-    "Roadmap.md",
-    "00-Inbox"
+    "00 Inbox/202610040815.md",
+    "00 Inbox/Inbox.md",
+    "10 Projects/CareerOS/8-Prompts/application-questions.md",
+    "10 Projects/Job Hunt/9-Files/me.png",
+    "10 Projects/Job Hunt/9-Files/Resume.pdf",
+    "10 Projects/Job Hunt/9-Files/Resume Local.pdf",
+    "10 Projects/Job Hunt/9-Files/Michael Mussulis Resume.pdf",
+    "10 Projects/Job Hunt/9-Files",
+    "10 Projects/CareerOS/8-Prompts/evaluate-job-fit.md",
+    "10 Projects/CareerOS/8-Prompts/create-application-question-prompt.md",
+    "10 Projects/CareerOS/8-Prompts/application/why-are-you-looking-for-a-new-role.md",
+    "10 Projects/CareerOS/8-Prompts/application/what-interests-you-about-working-for-this-company.md",
+    "10 Projects/CareerOS/8-Prompts/application/tell-us-about-your-background.md",
+    "10 Projects/CareerOS/8-Prompts/application",
+    "10 Projects/CareerOS/8-Prompts",
+    "10 Projects/Job Hunt/5-Notes/LinkedIn Posts",
+    "10 Projects/Job Hunt/5-Notes/2-Interviewing",
+    "10 Projects/Job Hunt/5-Notes/1-Job Hunting/Resume.pdf"
   ]
 }

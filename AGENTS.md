@@ -15,13 +15,12 @@ Before changing the vault, read `10 Projects/Personal System/Project.md`.
 
 ## Where notes go
 
-- `00 Inbox` — unsorted capture. Daily notes land here.
+- `00 Inbox` — unsorted capture. New captures use `Templates/Inbox.md` (`note_type: inbox`).
 - `10 Projects` — work with an outcome. Open that folder's project note first.
-- `20 Areas` — ongoing responsibilities. Learning is not built yet.
-- `30 Resources` — reference you might study.
+- `20 Notes` — one evergreen note per tool or topic (for example Cursor IDE, Raycast, AI). Use `Templates/Note.md` (`note_type: Note`) and start the body with a one-line `>` description.
 - `90 Archive` — finished or dropped.
-- `Templates` — note templates. The daily template is `Templates/Daily.md`.
+- `Templates` — note templates: `Inbox.md` and `Note.md`.
 
 ## Leave alone until the project note decides it
 
-Do not add learning subjects, a project-management app, or a custom automation layer. Those choices are still open.
+Do not add learning subjects, a project-management app, or a custom automation layer. Those choices are still open. A note in `20 Notes` is reference, not a learning subject: do not add level or practice tracking to it.

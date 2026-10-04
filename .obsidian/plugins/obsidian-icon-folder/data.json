@@ -5,7 +5,13 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "LiHome",
+      "LiNotebook",
+      "LiAppWindowMac",
+      "LiToolCase",
+      "LiPhoneIncoming"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -27,5 +33,17 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  }
+  },
+  "00 Inbox": "LiInbox",
+  "90 Archive": "LiArchive",
+  "Templates": "LiBookTemplate",
+  "AGENTS.md": "LiBrainCog",
+  "Home.md": "LiHome",
+  "20 Notes": "LiListTodo",
+  "10 Projects": "LiGroup",
+  "10 Projects/Personal System": "LiToolCase",
+  "10 Projects/Job Hunt": "LiPhoneIncoming",
+  "10 Projects/CareerOS": "LiAppWindowMac",
+  "20 Notes/Obsidian.md": "LiNotebook",
+  "10 Projects/Home": "LiHome"
 }

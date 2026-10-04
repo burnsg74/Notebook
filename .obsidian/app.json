@@ -1,4 +1,11 @@
 {
   "readableLineLength": false,
-  "vimMode": true
+  "vimMode": true,
+  "openBehavior": "file:Home.md",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00 Inbox",
+  "attachmentFolderPath": "./attachments",
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "promptDelete": false
 }
