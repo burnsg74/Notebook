@@ -4,25 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "783bfb3eeeef6f3f",
+        "id": "98e011e269497f53",
         "type": "tabs",
         "children": [
           {
-            "id": "01ccb9c8f494a24c",
+            "id": "0791c576d79a91f2",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40 How To/AI Build Interactive Learning Book.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "AI Build Interactive Learning Book"
+            }
+          },
+          {
+            "id": "9163d15679b41dcc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AGENTS.md",
+                "file": "50 Research/AI Integration for Full Stack Web Engineers.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "AGENTS"
+              "title": "AI Integration for Full Stack Web Engineers"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,6 +96,16 @@
               },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "a93992e75139c055",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "notebook-navigator"
             }
           }
         ]
@@ -148,56 +176,52 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "zk-prefixer:Create new unique note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false,
-      "zk-prefixer:Create new unique note": false,
-      "templater-obsidian:Templater": false
+      "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "01ccb9c8f494a24c",
+  "active": "7a1bbbd719bc7720",
   "lastOpenFiles": [
-    "Templates/Note.md",
-    "Templates/Inbox.md",
+    "00 Inbox/Preview Playwright Web Scraper Wellfound Jobs Script.md",
+    "50 Research/AI Learning Books - Howto/Make a learning manual.md",
+    "50 Research/Desk Research.md",
+    "50 Research/AI Learning Books - Howto/Desk Research.md",
+    "50 Research/AI Learning Books - Howto/AI Prompt - Create a Book.md",
+    "50 Research/AI Prompt - Create a Book.md",
+    "50 Research/AI Learning Books - Howto",
+    "50 Research",
+    "50 Research/Old Job.md",
+    "10 Projects/ERPNext/ERPNext.md",
+    "00 Inbox/Indeed.md",
+    "00 Inbox/AI Prompt - Create a Book.md",
+    "10 Projects/ERPNext",
+    "50 Research/AI Integration for Full Stack Web Engineers.md",
+    "40 How To/AI Build Interactive Learning Book.md",
+    "40 How To",
+    "30 Learning/Cursor IDE/AI Bootstrap.md",
+    "30 Learning/Cursor IDE/00 Outline - Pair Programming with a Ghost.md",
     "Home.md",
-    "20 Notes/MacOS.md",
-    "20 Notes/AI.md",
-    "20 Notes/Mail.md",
     "20 Notes/Chrome.md",
-    "20 Notes/Raycast.md",
-    "20 Notes/Warp.md",
-    "20 Notes/Zed IDE.md",
-    "20 Notes/Cursor IDE.md",
+    "50 Research/Workflow Research.md",
+    "10 Projects/ERPNext/ERPNext Task.md",
+    "00 Inbox/Desk Research.md",
+    "50 Research/Job Hunt reseach.md",
+    "00 Inbox/Pretzels.md",
+    "00 Inbox/202609161906.md",
+    "00 Inbox/Untitled.md",
+    "00 Inbox/EGO Mowers.md",
+    "00 Inbox/202609160605.md",
+    "50 Research/Work trajectory.md",
+    "10 Projects/Job Hunt/6-Tasks",
+    "80 Contacts",
+    "30 Learning/Cursor IDE",
+    "30 Learning",
     "10 Projects/Home",
-    "20 Notes/Obsidian.md",
-    "10 Projects/Personal System/Project.md",
-    "AGENTS.md",
-    "00 Inbox/Test.md",
-    "00 Inbox/202610040820.md",
-    "00 Inbox/202610040819.md",
-    "Templates/Daily.md",
-    "00 Inbox/202610040815.md",
-    "00 Inbox/Inbox.md",
-    "10 Projects/CareerOS/8-Prompts/application-questions.md",
     "10 Projects/Job Hunt/9-Files/me.png",
-    "10 Projects/Job Hunt/9-Files/Resume.pdf",
-    "10 Projects/Job Hunt/9-Files/Resume Local.pdf",
-    "10 Projects/Job Hunt/9-Files/Michael Mussulis Resume.pdf",
-    "10 Projects/Job Hunt/9-Files",
-    "10 Projects/CareerOS/8-Prompts/evaluate-job-fit.md",
-    "10 Projects/CareerOS/8-Prompts/create-application-question-prompt.md",
-    "10 Projects/CareerOS/8-Prompts/application/why-are-you-looking-for-a-new-role.md",
-    "10 Projects/CareerOS/8-Prompts/application/what-interests-you-about-working-for-this-company.md",
-    "10 Projects/CareerOS/8-Prompts/application/tell-us-about-your-background.md",
-    "10 Projects/CareerOS/8-Prompts/application",
-    "10 Projects/CareerOS/8-Prompts",
-    "10 Projects/Job Hunt/5-Notes/LinkedIn Posts",
-    "10 Projects/Job Hunt/5-Notes/2-Interviewing",
-    "10 Projects/Job Hunt/5-Notes/1-Job Hunting/Resume.pdf"
+    "10 Projects/Job Hunt/9-Files/Resume.pdf"
   ]
 }
