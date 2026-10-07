@@ -1,6 +1,6 @@
 ---
-note_type: inbox
-created: "2026-10-04 18:02"
+note_type: Research
+created: 2026-10-04 18:02
 ---
 You are a master teacher and author in the style of great explanatory writers
 (think Feynman's lectures, "Head First" books, and Bill Bryson's curiosity).

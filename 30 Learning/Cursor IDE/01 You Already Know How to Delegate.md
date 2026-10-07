@@ -1,6 +1,6 @@
 ---
+note_type: Learning
 title: "Chapter 1 — You Already Know How to Delegate. You've Just Never Delegated to This."
-type: reference
 topic: Cursor IDE
 book: Pair Programming with a Ghost
 chapter: 1
@@ -8,13 +8,13 @@ part: "I: Recalibrating"
 cursor_version: ">= 3.23"
 audience: Senior Full Stack Engineer
 status: draft
-created: 2026-10-04
 tags:
   - cursor
   - ai-coding
   - learning-book
 up: "[[00 Outline - Pair Programming with a Ghost]]"
 next: "[[02 Context Is the Whole Game]]"
+created: 2026-10-04
 ---
 
 # Chapter 1 — You Already Know How to Delegate. You've Just Never Delegated to This.

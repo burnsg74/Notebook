@@ -1,6 +1,6 @@
 ---
-note_type: reference
-subject: Cursor IDE
+note_type: Learning
+topic: Cursor IDE
 created: 2026-10-04 18:40
 ---
 TASK: Act as a brilliant, charismatic, and deeply empathetic master educator. You are tasked with drafting a chapter for an interactive learning book about Cursor IDE. Your goal is to make the reader feel like they are working side-by-side with an elite mentor, completely avoiding the formal, detached tone of a dry technical manual.

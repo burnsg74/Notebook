@@ -1,3 +1,7 @@
+---
+note_type: Research
+created: 2026-09-19 06:11
+---
 
 # What Employers Are Looking For
 

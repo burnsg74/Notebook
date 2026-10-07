@@ -4,43 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "98e011e269497f53",
+        "id": "3da0a3007a92d05e",
         "type": "tabs",
         "children": [
           {
-            "id": "0791c576d79a91f2",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40 How To/AI Build Interactive Learning Book.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "AI Build Interactive Learning Book"
-            }
-          },
-          {
-            "id": "9163d15679b41dcc",
+            "id": "d9351425cf577e1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "50 Research/AI Integration for Full Stack Web Engineers.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "AI Integration for Full Stack Web Engineers"
+              "title": "Home"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,8 +166,28 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "7a1bbbd719bc7720",
+  "active": "d9351425cf577e1e",
   "lastOpenFiles": [
+    "Home.md",
+    "70 Reference",
+    "10 Projects/Personal System/Project.md",
+    "10 Clients/Work",
+    "10 Clients/Work/Job Hunt/5-Notes/Interview Prep Guide.md",
+    "00 Inbox/2-Notes/Workflow-v1.md",
+    "00 Inbox/2-Notes/SEO.md",
+    "00 Inbox/2-Notes/ME.md",
+    "00 Inbox/2-Notes/LifeOS Architecture.md",
+    "10 Clients/Work/Job Hunt/5-Notes/Interview Practice.md",
+    "60 Services Tools/Cloudflare.md",
+    "00 Inbox/2-Notes/AI Research.md",
+    "00 Inbox/2-Notes/Cursor.md",
+    "00 Inbox/2-Notes/AI Prompts.md",
+    "00 Inbox/3-Research/BWS Planning Notes.md",
+    "00 Inbox/3-Research/AI Prompt - Tutor.md",
+    "00 Inbox/3-Research/AI.md",
+    "00 Inbox/9-Templates/TODO.md",
+    "10 Clients/Work/Job Hunt/5-Notes/Work trajectory.md",
+    "10 Clients/Work/Job Hunt/5-Notes/Job Search Problem.md",
     "00 Inbox/Preview Playwright Web Scraper Wellfound Jobs Script.md",
     "50 Research/AI Learning Books - Howto/Make a learning manual.md",
     "50 Research/Desk Research.md",
@@ -195,33 +197,12 @@
     "50 Research/AI Learning Books - Howto",
     "50 Research",
     "50 Research/Old Job.md",
-    "10 Projects/ERPNext/ERPNext.md",
-    "00 Inbox/Indeed.md",
-    "00 Inbox/AI Prompt - Create a Book.md",
-    "10 Projects/ERPNext",
-    "50 Research/AI Integration for Full Stack Web Engineers.md",
-    "40 How To/AI Build Interactive Learning Book.md",
+    "10 Clients/ERPNext",
     "40 How To",
-    "30 Learning/Cursor IDE/AI Bootstrap.md",
-    "30 Learning/Cursor IDE/00 Outline - Pair Programming with a Ghost.md",
-    "Home.md",
-    "20 Notes/Chrome.md",
-    "50 Research/Workflow Research.md",
-    "10 Projects/ERPNext/ERPNext Task.md",
-    "00 Inbox/Desk Research.md",
-    "50 Research/Job Hunt reseach.md",
-    "00 Inbox/Pretzels.md",
-    "00 Inbox/202609161906.md",
-    "00 Inbox/Untitled.md",
-    "00 Inbox/EGO Mowers.md",
-    "00 Inbox/202609160605.md",
-    "50 Research/Work trajectory.md",
-    "10 Projects/Job Hunt/6-Tasks",
+    "10 Clients/Work/Job Hunt/6-Tasks",
     "80 Contacts",
     "30 Learning/Cursor IDE",
     "30 Learning",
-    "10 Projects/Home",
-    "10 Projects/Job Hunt/9-Files/me.png",
-    "10 Projects/Job Hunt/9-Files/Resume.pdf"
+    "10 Clients/Work/Job Hunt/9-Files/me.png"
   ]
 }

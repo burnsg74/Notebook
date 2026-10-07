@@ -1,3 +1,7 @@
+---
+note_type: Research
+created: 2026-09-24 18:20
+---
 Perfect. Based on your criteria, here's what stands out:
 
 ## Top Recommendation: **FlexiSpot EN1 (48" x 24")**

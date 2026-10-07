@@ -1,3 +1,7 @@
+---
+note_type: Research
+created: 2026-09-26 09:37
+---
 ## 1. The core problem, named plainly
 
 You don't have a tools problem. You have a **single-source-of-truth problem** plus a **capacity problem** (headaches, full-time job, family time, low energy after work). Every tool you listed is fine in isolation — Cursor, Wispr Flow, Warp, NotebookLM — the failure mode is that _plans live in places you don't revisit_. So the fix isn't a new app, it's:

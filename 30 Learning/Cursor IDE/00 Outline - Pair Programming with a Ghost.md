@@ -1,11 +1,10 @@
 ---
-title: "Pair Programming with a Ghost — Outline"
-type: reference
+note_type: Learning
+title: Pair Programming with a Ghost — Outline
 topic: Cursor IDE
 cursor_version: ">= 3.23"
 audience: Senior Full Stack Engineer
 status: draft
-created: 2026-10-04
 tags:
   - cursor
   - ai-coding
@@ -13,6 +12,7 @@ tags:
 sources:
   - https://cursor.com/docs
   - https://cursor.com/learn
+created: 2026-10-04
 ---
 # Pair Programming with a Ghost
 ### A senior engineer's field guide to Cursor

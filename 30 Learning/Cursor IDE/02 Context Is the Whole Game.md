@@ -1,6 +1,6 @@
 ---
-title: "Chapter 2 — Context Is the Whole Game"
-type: reference
+note_type: Learning
+title: Chapter 2 — Context Is the Whole Game
 topic: Cursor IDE
 book: Pair Programming with a Ghost
 chapter: 2
@@ -8,7 +8,6 @@ part: "I: Recalibrating"
 cursor_version: ">= 3.23"
 audience: Senior Full Stack Engineer
 status: draft
-created: 2026-10-04
 tags:
   - cursor
   - ai-coding
@@ -17,6 +16,7 @@ tags:
 up: "[[00 Outline - Pair Programming with a Ghost]]"
 prev: "[[01 You Already Know How to Delegate]]"
 next: "[[03 Tab Is Not Autocomplete]]"
+created: 2026-10-04
 ---
 
 # Chapter 2 — Context Is the Whole Game
