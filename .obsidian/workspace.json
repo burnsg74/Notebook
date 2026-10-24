@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3da0a3007a92d05e",
+        "id": "303223944a2ccda3",
         "type": "tabs",
         "children": [
           {
-            "id": "d9351425cf577e1e",
+            "id": "7b9118708db7324d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -86,15 +86,15 @@
             "state": {
               "type": "notebook-navigator",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "notebook-navigator"
+              "icon": "notebook-navigator",
+              "title": "Notebook Navigator"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 316.4375
   },
   "right": {
     "id": "8875dad5d71b3f05",
@@ -166,43 +166,44 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "d9351425cf577e1e",
+  "active": "7b9118708db7324d",
   "lastOpenFiles": [
-    "Home.md",
-    "70 Reference",
-    "10 Projects/Personal System/Project.md",
-    "10 Clients/Work",
-    "10 Clients/Work/Job Hunt/5-Notes/Interview Prep Guide.md",
-    "00 Inbox/2-Notes/Workflow-v1.md",
-    "00 Inbox/2-Notes/SEO.md",
-    "00 Inbox/2-Notes/ME.md",
-    "00 Inbox/2-Notes/LifeOS Architecture.md",
-    "10 Clients/Work/Job Hunt/5-Notes/Interview Practice.md",
-    "60 Services Tools/Cloudflare.md",
-    "00 Inbox/2-Notes/AI Research.md",
-    "00 Inbox/2-Notes/Cursor.md",
-    "00 Inbox/2-Notes/AI Prompts.md",
-    "00 Inbox/3-Research/BWS Planning Notes.md",
-    "00 Inbox/3-Research/AI Prompt - Tutor.md",
-    "00 Inbox/3-Research/AI.md",
-    "00 Inbox/9-Templates/TODO.md",
-    "10 Clients/Work/Job Hunt/5-Notes/Work trajectory.md",
-    "10 Clients/Work/Job Hunt/5-Notes/Job Search Problem.md",
-    "00 Inbox/Preview Playwright Web Scraper Wellfound Jobs Script.md",
-    "50 Research/AI Learning Books - Howto/Make a learning manual.md",
-    "50 Research/Desk Research.md",
-    "50 Research/AI Learning Books - Howto/Desk Research.md",
-    "50 Research/AI Learning Books - Howto/AI Prompt - Create a Book.md",
-    "50 Research/AI Prompt - Create a Book.md",
-    "50 Research/AI Learning Books - Howto",
-    "50 Research",
     "50 Research/Old Job.md",
-    "10 Clients/ERPNext",
-    "40 How To",
-    "10 Clients/Work/Job Hunt/6-Tasks",
-    "80 Contacts",
-    "30 Learning/Cursor IDE",
-    "30 Learning",
+    "50 Research/Action Plan/AI Instructions.md",
+    "10 Projects/Personal System/10 Log/Progress.md",
+    "10 Projects/Personal System/10 Log/Health.md",
+    "10 Projects/Personal System/AI Instructions.md",
+    "10 Projects/Personal System/10 Log",
+    "10 Projects/Personal System/09 Roadmap.md",
+    "10 Projects/Personal System/08 Next Steps.md",
+    "10 Projects/Personal System/07 Tool Ideas.md",
+    "10 Projects/Personal System/06 Systems and Tools.md",
+    "10 Projects/Personal System/05 Current Status.md",
+    "10 Projects/Personal System/04 Health.md",
+    "10 Projects/Personal System/03 Work History.md",
+    "10 Projects/Personal System/02 Goals.md",
+    "10 Projects/Personal System/01 About Me.md",
+    "10 Projects/Personal System/00 Start Here.md",
+    "10 Projects/Personal System",
+    "10 Projects",
+    "50 Research/Action Plan/10 Log/Progress.md",
+    "50 Research/Action Plan/09 Roadmap.md",
+    "50 Research/Action Plan/08 Next Steps.md",
+    "50 Research/Action Plan/07 Tool Ideas.md",
+    "50 Research/Action Plan/06 Systems and Tools.md",
+    "50 Research/Action Plan/05 Current Status.md",
+    "50 Research/Action Plan/10 Log/Health.md",
+    "50 Research/Action Plan/10 Log",
+    "50 Research/Action Plan/04 Health.md",
+    "50 Research/Action Plan/03 Work History.md",
+    "50 Research/Action Plan/01 About Me.md",
+    "50 Research/Action Plan/02 Goals.md",
+    "50 Research/Action Plan",
+    "10 Clients/Work/Job Hunt/9-Files/Resume - Ensemble Weather AI.pdf",
+    "Ensemble Weather AI — Weather & Climate Forecasting",
+    "10 Clients/Work/Job Hunt/9-Files/Resume - Ensemble Weather AI.html",
+    "10 Clients/Work/Job Hunt/5-Notes/1-Job Hunting/Resume.pdf",
+    "10 Clients/Archive",
     "10 Clients/Work/Job Hunt/9-Files/me.png"
   ]
 }

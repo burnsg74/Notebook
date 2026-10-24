@@ -2,57 +2,6 @@
 note_type: Note
 created: 2026-10-04 13:30
 ---
-How to use this note
-
-**Don't memorize the answers word for word.** If you do, you'll sound like you're reading, and when you lose one word you lose the whole thing. Read the answer a couple of times to get the shape, then practice from the **Cue card** only. The cue card is what you actually remember in the room.
-
-**Practice out loud.** Thinking the answer in your head doesn't count. Say it, record it on your phone, play it back. You'll hear right away where you ramble.
-
-**Time it.** Most answers should run 60–90 seconds. "Tell me about yourself" can go up to 2 minutes. If you go longer, they stop listening and start waiting.
-
-**Saturday practice (fits the 2-hour block in the Action Plan):** pick 3 questions, run each one out loud 3 times, and fill in one `TODO` with a real story.
-
-**Where a `TODO` shows up,** I didn't have the real story in your notes. Don't make one up. A small true story beats a big invented one, because interviewers dig, and invented stories fall apart on the second follow-up.
-
----
-
-# What every interviewer is really checking
-
-Under almost every question, they're trying to answer four things:
-
-1. **Can you do the job?** Skills, and proof you've used them recently.
-2. **Do you actually want *this* job?** Or are you just applying everywhere?
-3. **Will we like working with you?** Calm, honest, easy to talk to, no drama.
-4. **Will you stick around?** Hiring is expensive. They're scared of someone who leaves in 6 months.
-
-Before you answer, ask yourself which of the four this question is really about. That tells you what to stress.
-
-# Two answer shapes
-
-**For "about you" questions, use Now, Before, Next:**
-- **Now:** what you do and your most recent work.
-- **Before:** the one or two things in your history that matter for *this* job.
-- **Next:** what you want, and why this role fits.
-
-**For "tell me about a time" questions, use the story shape:**
-- **The setup:** where you were, what was going on (one or two sentences, no more).
-- **What I did:** the bulk of the answer. Say "I," not "we," for your part.
-- **How it turned out:** a real result, even a small one.
-- **What I took from it:** one sentence. This is the part most people skip, and it's the part that shows judgment.
-
----
-
-# 1. Tell me about yourself
-
-**What they're really asking:** "Give me the short version of why you're worth talking to for this job." It's also a test of whether you can summarize and communicate clearly, which matters a lot on remote teams.
-
-**What a good answer does:**
-- Stays under 2 minutes.
-- Leads with recent, relevant work (Makpar), not 1993.
-- Plants "hooks," meaning things you *want* them to ask about. Whatever you mention here, they'll follow up on, so you're setting the agenda for the rest of the interview.
-- Ends by connecting to their role, which hands the conversation back.
-
-**Your answer (about 90 seconds):**
 
 > Sure. I'm a full-stack engineer, and I've been building software for about 25 years, mostly at small companies and startups where I've had to wear a lot of hats.
 >
@@ -452,3 +401,12 @@ Before you answer, ask yourself which of the four this question is really about.
 - [ ] Fill in "how I've kept my skills current" (Q3). It's the follow-up most likely to catch you off guard.
 - [ ] Check the numbers in [[Prep Guide - 1]] against what really happened. Several are not in your work history: "zero production incidents in 90 days," "deploy 5–10 times a day," "lookup time from 45 seconds to under 2," "80% fewer billing errors," "team grew from 2 to 8," the GSATi migration story, and the Makpar GraphQL story. The guide also says you grew from engineer to CTO at Red Pocket, but your work history says you started as CTO. Keep what's true and drop the rest.
 - [ ] For each real interview: pick your "one specific thing" for Q1 and Q4, and pick which backup project fits their stack.
+
+
+---
+
+
+jLara@ensemblegains.com
+
+
+WhatsApp: +1 (803) 983 - 1002

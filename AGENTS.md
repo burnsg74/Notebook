@@ -4,13 +4,13 @@ This vault is a personal knowledge system in Obsidian markdown. Cursor and Rayca
 
 ## Read first
 
-Before changing the vault, read `10 Projects/Personal System/Project.md`.
+Before changing the vault, read `10 Projects/Personal System/00 Start Here.md`. It maps the Personal System notes and says which to read for a given task.
 
 ## How to work
 
-1. Stay inside the current item under Next in that project note. Do not start Later work in the same slice.
-2. When a slice is finished, add a line under Done, move that item out of Next, and write the following slice under Next.
-3. If a working decision changes, edit Working decisions and say why under Done.
+1. Work on what the user asks. For planning, pick from `08 Next Steps` and check `05 Current Status`.
+2. When something is finished or decided, add a line to `10 Log/Progress.md` in its existing format. Decisions include a `why:` field.
+3. Notes with a `format:` field in their frontmatter are app data. Keep new lines in that exact layout.
 4. One project, one folder. Design, plan, done, and left stay together.
 
 ## Where notes go
@@ -21,6 +21,6 @@ Before changing the vault, read `10 Projects/Personal System/Project.md`.
 - `90 Archive` — finished or dropped.
 - `Templates` — note templates: `Inbox.md` and `Note.md`.
 
-## Leave alone until the project note decides it
+## Leave alone until the Personal System decides it
 
-Do not add learning subjects, a project-management app, or a custom automation layer. Those choices are still open. A note in `20 Notes` is reference, not a learning subject: do not add level or practice tracking to it.
+Do not add learning subjects or a custom automation layer. App plans live in `10 Projects/Personal System/07 Tool Ideas.md`; do not start an app it hasn't decided on. A note in `20 Notes` is reference, not a learning subject: do not add level or practice tracking to it.

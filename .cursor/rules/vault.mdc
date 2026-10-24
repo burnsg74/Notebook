@@ -7,6 +7,6 @@ alwaysApply: true
 
 Follow `AGENTS.md` at the vault root.
 
-Before changing the vault, read `10 Projects/Personal System/Project.md`. Stay inside its current Next item. When a slice is finished, update Done and Next there. If a working decision changes, edit Working decisions and say why under Done.
+Before changing the vault, read `10 Projects/Personal System/00 Start Here.md`. Log finished work and decisions (with `why:`) in `10 Projects/Personal System/10 Log/Progress.md`, in its existing format.
 
-Markdown in this vault is the record. Do not invent a second database, learning subjects, a project app, or an automation layer until that project note decides it.
+Markdown in this vault is the record. Do not invent a second database, learning subjects, or an automation layer. Apps are planned in `07 Tool Ideas`; don't start one it hasn't decided on.

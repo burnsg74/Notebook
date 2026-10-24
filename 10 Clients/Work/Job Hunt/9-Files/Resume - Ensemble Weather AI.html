@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Gregory Burns — Senior Full-Stack Engineer</title>
+  <style>
+    @page {
+      size: letter;
+      margin: 0;
+    }
+    * { box-sizing: border-box; }
+    html, body {
+      margin: 0;
+      padding: 0;
+      background: #fff;
+      color: #1a1a1a;
+      font: 9.15pt/1.28 "Helvetica Neue", Helvetica, Arial, sans-serif;
+      -webkit-print-color-adjust: exact;
+      print-color-adjust: exact;
+    }
+    .page {
+      width: 8.5in;
+      padding: 0.42in 0.55in 0.36in;
+    }
+    header {
+      text-align: center;
+      margin-bottom: 0;
+    }
+    h1 {
+      margin: 0;
+      font-size: 20.5pt;
+      font-weight: 700;
+      letter-spacing: 0.04em;
+      line-height: 1.05;
+    }
+    .role {
+      margin: 4px 0 5px;
+      font-size: 9pt;
+      font-weight: 600;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: #333;
+    }
+    .contact {
+      font-size: 9pt;
+      color: #222;
+    }
+    .contact a {
+      color: #222;
+      text-decoration: none;
+    }
+    .rule {
+      height: 1.5px;
+      background: #1a1a1a;
+      margin: 8px 0 9px;
+    }
+    h2 {
+      margin: 9px 0 4px;
+      font-size: 8.8pt;
+      font-weight: 700;
+      letter-spacing: 0.16em;
+      text-transform: uppercase;
+      border-bottom: 1px solid #1a1a1a;
+      padding-bottom: 1px;
+    }
+    .summary {
+      margin: 0;
+      text-align: left;
+    }
+    .skills {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }
+    .skills li {
+      margin: 0 0 1px;
+    }
+    .skills strong {
+      font-weight: 700;
+    }
+    .job {
+      margin: 0 0 5.5px;
+    }
+    .job-head {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      gap: 12px;
+    }
+    .job-title {
+      font-weight: 700;
+    }
+    .job-meta {
+      font-size: 9pt;
+      color: #222;
+    }
+    .dates {
+      white-space: nowrap;
+      font-variant-numeric: tabular-nums;
+      font-size: 9pt;
+    }
+    ul {
+      margin: 1px 0 0;
+      padding: 0 0 0 14px;
+    }
+    li {
+      margin: 0 0 1px;
+    }
+    .edu {
+      margin: 0 0 1px;
+    }
+  </style>
+</head>
+<body>
+  <div class="page">
+    <header>
+      <h1>Gregory Burns</h1>
+      <div class="role">Senior Full-Stack Engineer</div>
+      <div class="contact">
+        gregburns74@gmail.com &nbsp;·&nbsp; (541) 819-0321 &nbsp;·&nbsp; Seal Rock, OR &nbsp;·&nbsp;
+        <a href="https://www.linkedin.com/in/gregory-burns-4ba14a4">linkedin.com/in/gregory-burns-4ba14a4</a>
+      </div>
+    </header>
+
+    <div class="rule"></div>
+
+    <p class="summary">
+      Full-stack engineer who owns the customer surface: the app people click and the API they pay for.
+      Production React/TypeScript, Python APIs, authentication, rate limiting, and the billing-adjacent work
+      that turns an endpoint into a product. Led an SBA customer portal; previously CTO at a small company,
+      shipping the dashboard, public site, and authenticated API without a platform team.
+      Authorized to work in the US for any employer.
+    </p>
+
+    <h2>Skills</h2>
+    <ul class="skills">
+      <li><strong>Frontend:</strong> TypeScript, JavaScript, React, HTML/CSS, Vue.js</li>
+      <li><strong>Backend:</strong> Python, REST APIs, JWT/auth, MySQL, Postgres/RDS, DynamoDB, PHP (Laravel)</li>
+      <li><strong>APIs &amp; delivery:</strong> API keys, rate limiting, webhooks, AWS (Lambda, API Gateway, S3, CloudFront, RDS), Docker, CI/CD</li>
+      <li><strong>Quality &amp; leadership:</strong> Jest, Playwright, ESLint, SonarQube · small-team ownership, remote coordination</li>
+    </ul>
+
+    <h2>Experience</h2>
+
+    <div class="job">
+      <div class="job-head">
+        <div>
+          <span class="job-title">Senior Full Stack Engineer</span>
+          <span class="job-meta"> — Makpar Corp (US SBA contract), Remote</span>
+        </div>
+        <div class="dates">Oct 2023 – Oct 2024</div>
+      </div>
+      <ul>
+        <li>Led a React/TypeScript customer portal with a Python API on AWS (API Gateway, Lambda, RDS/DynamoDB) for an SBA-facing system that had to be correct when nobody was watching.</li>
+        <li>Treated auth and throttling as product, not plumbing: JWT, API Gateway authorizers, and rate limits on a public-facing API.</li>
+        <li>Performance work on image-heavy lists so the UI stayed fast and readable under load; CI/CD with Jest, Playwright, and SonarQube.</li>
+      </ul>
+    </div>
+
+    <div class="job">
+      <div class="job-head">
+        <div>
+          <span class="job-title">Senior Full Stack Engineer</span>
+          <span class="job-meta"> — GSATi, Remote</span>
+        </div>
+        <div class="dates">Mar 2022 – Sep 2023</div>
+      </div>
+      <ul>
+        <li>Maintained a messy early codebase (legacy PHP/Laminas), integrated AWS serverless, shipped a Commerce7 plugin, and closed issues against live customer systems without a large platform team.</li>
+      </ul>
+    </div>
+
+    <div class="job">
+      <div class="job-head">
+        <div>
+          <span class="job-title">Senior Full Stack Engineer</span>
+          <span class="job-meta"> — Moxxi Marketing, Remote</span>
+        </div>
+        <div class="dates">Jan 2021 – Mar 2022</div>
+      </div>
+      <ul>
+        <li>Rebuilt a Laravel site with two-way Magento integration and AWS-hosted infrastructure; inventory tool talking to multiple external APIs.</li>
+      </ul>
+    </div>
+
+    <div class="job">
+      <div class="job-head">
+        <div>
+          <span class="job-title">Senior Full Stack Engineer</span>
+          <span class="job-meta"> — Filter Easy, Remote</span>
+        </div>
+        <div class="dates">Aug 2020 – Feb 2021</div>
+      </div>
+      <ul>
+        <li>Modernized an eCommerce platform as a Laravel + Vue.js SPA, including white-label and pricing rules that had to stay consistent in the UI and the API.</li>
+      </ul>
+    </div>
+
+    <div class="job">
+      <div class="job-head">
+        <div>
+          <span class="job-title">Senior Full Stack Engineer</span>
+          <span class="job-meta"> — iRemedy, Remote</span>
+        </div>
+        <div class="dates">Oct 2019 – Jul 2020</div>
+      </div>
+      <ul>
+        <li>Refactored a FuelPHP CRM to Laravel; built a Python scraper and ran Magento storefronts.</li>
+      </ul>
+    </div>
+
+    <div class="job">
+      <div class="job-head">
+        <div>
+          <span class="job-title">Senior Full Stack Engineer</span>
+          <span class="job-meta"> — Ronati, Remote</span>
+        </div>
+        <div class="dates">Mar 2019 – Oct 2019</div>
+      </div>
+      <ul>
+        <li>Laravel inventory sync for marketplace vendors: validation, idempotent writes, ship-under-deadline. Magento storefronts and Docker CI/CD.</li>
+      </ul>
+    </div>
+
+    <div class="job">
+      <div class="job-head">
+        <div>
+          <span class="job-title">Full Stack Engineer</span>
+          <span class="job-meta"> — Calltext, Remote</span>
+        </div>
+        <div class="dates">Dec 2016 – Nov 2018</div>
+      </div>
+      <ul>
+        <li>Custom CRM on Twilio and SendGrid with webhooks and Redis rate limiting so outbound traffic stayed inside provider quotas. Led a remote team behind one authenticated surface.</li>
+      </ul>
+    </div>
+
+    <div class="job">
+      <div class="job-head">
+        <div>
+          <span class="job-title">Full Stack Engineer</span>
+          <span class="job-meta"> — ChipMonk Technology, Remote</span>
+        </div>
+        <div class="dates">Aug 2016 – Dec 2016</div>
+      </div>
+      <ul>
+        <li>Product search and internal tools on Laravel + Redis; AWS-hosted storefront with an emphasis on UX.</li>
+      </ul>
+    </div>
+
+    <div class="job">
+      <div class="job-head">
+        <div>
+          <span class="job-title">CTO</span>
+          <span class="job-meta"> — Red Pocket Mobile, Remote</span>
+        </div>
+        <div class="dates">Apr 2009 – Jan 2015</div>
+      </div>
+      <ul>
+        <li>Grew from engineer to CTO of a 5-person team. Owned the systems customers actually used — CRM, storefronts, AWS infra — rather than a slice of a large platform org.</li>
+      </ul>
+    </div>
+
+    <h2>Education &amp; Military</h2>
+    <p class="edu">B.S. Computer Science, University of Phoenix, 1995–2005</p>
+    <p class="edu">U.S. Army, Satellite Communications Operator (Top Secret clearance), 1993–1999</p>
+  </div>
+</body>
+</html>
