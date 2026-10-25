@@ -18,7 +18,7 @@ status: draft
 - **Supporting depth:** 10+ years of PHP/Laravel and eCommerce backends (Magento, Commerce7).
 - **Leadership:** Former CTO (twice) and founder; led teams at Red Pocket, Calltext, and Makpar.
 - **Don't:** open with a long list of languages, or lead with truck driving in technical applications.
-- **Can't do (skip these jobs):** Ruby on Rails, React Native, BigCommerce, Salesforce, Django, Java, Spring Boot, UI/UX design. From [[10 Clients/Work/Job Hunt 2/3-Profile/Skill gaps]].
+- **Can't do (skip these jobs):** Ruby on Rails, React Native, BigCommerce, Salesforce, Django, Java, Spring Boot, UI/UX design, Google Apps, logistics and supply chain, Shopify. From [[10 Clients/Work/Personal System/Job Hunt/5-Notes/Skill gaps]].
 
 ## Timeline
 
@@ -64,10 +64,10 @@ Prepare these as short stories (problem, what I did, result), not memorized answ
 
 ## Why the last search stalled (Oct 2024 – Oct 2025)
 
-Not a performance issue: the SBA contract ended and Makpar had no project to move me to. The search hit a bad market (layoffs, AI uncertainty, 500–2,000 applicants per role), keyword-matching applicant tracking systems that read broad experience as unfocused, automated coding screens, and my weak live-interview performance. Unemployment ran out in September 2025. Full analysis: [[10 Clients/Work/Job Hunt 2/5-Notes/1-Job Hunting/3 - What went wrong - Post October 2024]].
+Not a performance issue: the SBA contract ended and Makpar had no project to move me to. The search hit a bad market (layoffs, AI uncertainty, 500–2,000 applicants per role), keyword-matching applicant tracking systems that read broad experience as unfocused, automated coding screens, and my weak live-interview performance. Unemployment ran out in September 2025. Full analysis: [[10 Clients/Work/Personal System/Job Hunt/5-Notes/1-Job Hunting/3 - What went wrong - Post October 2024]].
 
 ## Related notes
 
-- Target role, channels, and weekly job-search plan: [[10 Clients/Work/Job Hunt 2/5-Notes/1-Job Hunting/4 - Action Plan]]
+- Target role, channels, and weekly job-search plan: [[10 Clients/Work/Personal System/Job Hunt/5-Notes/1-Job Hunting/4 - Action Plan]]
 - Market outlook for 2027: [[Work trajectory]]
-- Application prompts: `10 Clients/Work/CareerOS/8-Prompts`
+- Application prompts: `Job Hunt/8-Prompts`

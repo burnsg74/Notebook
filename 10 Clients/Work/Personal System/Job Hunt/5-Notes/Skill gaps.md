@@ -9,6 +9,9 @@ disqualifying:
   - Java
   - Spring Boot
   - UI/UX Design
+  - Google Apps
+  - Logistics and Supply Chain
+  - Shopify
 created: 2026-10-04 08:02
 ---
 

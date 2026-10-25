@@ -27,6 +27,7 @@ These files are context for future AI chats and the data for my apps (see `07 To
 | `10 Log/Progress` | Dated record of what got done or decided, as evidence of progress | Whenever |
 | `10 Log/Health` | Dated entries for headaches, mood, meds, sleep, and triggers | Whenever |
 | `AI Instructions` | How the AI should behave, which model fits which question, and how to get better answers | Rarely |
+| `Job Hunt/` | Job-search working files: contacts, job boards, notes, interview prep, skill gaps, CareerOS prompts, resumes | During the search |
 
 `10 Log` is a folder so the future Master app can read it. Entries use a fixed format so both people and apps can parse them.
 

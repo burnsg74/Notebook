@@ -84,7 +84,7 @@ created: 2026-10-04 13:30
 
 # 4. Why do you want to work here?
 
-**What they're really asking:** "Did you actually read about us, or is this application number 47?" (See also the CareerOS note on application questions.)
+**What they're really asking:** "Did you actually read about us, or is this application number 47?" (See also [[10 Clients/Work/Personal System/Job Hunt/8-Prompts/application-questions]].)
 
 **What a good answer does:** It names one or two *specific* things about them, connects each to something real you've done, and sounds like you'd enjoy the work.
 
@@ -146,7 +146,7 @@ created: 2026-10-04 13:30
 
 **Watch out for:**
 - **Be ready to explain *why* for every piece.** Why serverless? Why DynamoDB instead of a relational database? Why Redux? That's what they're testing. Only claim the decisions that were actually yours.
-- **The [[10 Clients/Work/Job Hunt/5-Notes/2-Interviewing/Prep Guide - 1]] has metrics for this story** (like "zero incidents in 90 days" and "deploy 5–10 times a day") that aren't in your work history. Only use them if they're true.
+- **The [[10 Clients/Work/Personal System/Job Hunt/5-Notes/2-Interviewing/Prep Guide - 1]] has metrics for this story** (like "zero incidents in 90 days" and "deploy 5–10 times a day") that aren't in your work history. Only use them if they're true.
 
 **Backup projects** (have one ready in case they want something different):
 - **Ronati:** Laravel inventory app, plus a Python scraper and product sync running on Lambda, plus a CI/CD pipeline with Docker. Good for "data," "automation," or "DevOps" roles.
@@ -287,7 +287,7 @@ created: 2026-10-04 13:30
 - Reaching back out now, just to catch up
 
 **Watch out for:**
-- **The [[10 Clients/Work/Job Hunt/5-Notes/2-Interviewing/Prep Guide - 1]] has a GSATi story about a migration deleting tax logs.** It isn't in your work history. Don't use it unless it really happened.
+- **The [[10 Clients/Work/Personal System/Job Hunt/5-Notes/2-Interviewing/Prep Guide - 1]] has a GSATi story about a migration deleting tax logs.** It isn't in your work history. Don't use it unless it really happened.
 - **A technical mistake is stronger for an engineering interview.** The network story is a solid backup.
 
 ---
@@ -343,7 +343,7 @@ created: 2026-10-04 13:30
 **What they're really asking:** "Are we in the same ballpark, so neither of us wastes time?"
 
 **Coach notes:**
-- Your target from the [[10 Clients/Work/Job Hunt 2/5-Notes/1-Job Hunting/4 - Action Plan]] is **$110k–$140k**.
+- Your target from the [[10 Clients/Work/Personal System/Job Hunt/5-Notes/1-Job Hunting/4 - Action Plan]] is **$110k–$140k**.
 - If you can, let them go first: "What's the range budgeted for this role?" Small companies will often just tell you.
 - If they push, give a range where the **bottom is a little above your real minimum**, because offers tend to land at the bottom of whatever range you say.
 - Mention flexibility on the full package (equity, benefits) so it doesn't sound like a wall.
@@ -382,7 +382,7 @@ created: 2026-10-04 13:30
 
 **What they're really asking:** "Are you curious, and are you actually evaluating us?" Always say yes. "No, I think you covered everything" reads as low interest.
 
-**Ask 2 or 3 of these** (more in [[10 Clients/Work/Job Hunt/5-Notes/2-Interviewing/Prep Guide - 1]]):
+**Ask 2 or 3 of these** (more in [[10 Clients/Work/Personal System/Job Hunt/5-Notes/2-Interviewing/Prep Guide - 1]]):
 
 1. "What's the biggest technical headache you're dealing with right now?" This is your best one. It gets them talking about real problems, and you can answer with "I dealt with something like that at…"
 2. "What would a great first three months look like for this person?"
@@ -399,7 +399,7 @@ created: 2026-10-04 13:30
 
 - [ ] Fill in the `TODO` stories: hard part of Makpar (Q5), a leadership moment (Q6), reasons for the short jobs (Q9), a technical mistake (Q11), a disagreement (Q12), and AI examples (Q13).
 - [ ] Fill in "how I've kept my skills current" (Q3). It's the follow-up most likely to catch you off guard.
-- [ ] Check the numbers in [[10 Clients/Work/Job Hunt/5-Notes/2-Interviewing/Prep Guide - 1]] against what really happened. Several are not in your work history: "zero production incidents in 90 days," "deploy 5–10 times a day," "lookup time from 45 seconds to under 2," "80% fewer billing errors," "team grew from 2 to 8," the GSATi migration story, and the Makpar GraphQL story. The guide also says you grew from engineer to CTO at Red Pocket, but your work history says you started as CTO. Keep what's true and drop the rest.
+- [ ] Check the numbers in [[10 Clients/Work/Personal System/Job Hunt/5-Notes/2-Interviewing/Prep Guide - 1]] against what really happened. Several are not in your work history: "zero production incidents in 90 days," "deploy 5–10 times a day," "lookup time from 45 seconds to under 2," "80% fewer billing errors," "team grew from 2 to 8," the GSATi migration story, and the Makpar GraphQL story. The guide also says you grew from engineer to CTO at Red Pocket, but your work history says you started as CTO. Keep what's true and drop the rest.
 - [ ] For each real interview: pick your "one specific thing" for Q1 and Q4, and pick which backup project fits their stack.
 
 

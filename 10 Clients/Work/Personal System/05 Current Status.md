@@ -26,7 +26,7 @@ _fill in (just one: for example, send two targeted applications, or start the he
 
 ## Job search
 
-- **Target:** Remote full-stack or tech lead role at a small company (10–50 people), $110k–$140k, or contract work at $30/hr or more. Detail in [[10 Clients/Work/Job Hunt 2/5-Notes/1-Job Hunting/4 - Action Plan]].
+- **Target:** Remote full-stack or tech lead role at a small company (10–50 people), $110k–$140k, or contract work at $30/hr or more. Detail in [[10 Clients/Work/Personal System/Job Hunt/5-Notes/1-Job Hunting/4 - Action Plan]].
 - **Weekly time budget:** weeknights 30 min, Saturday 2 hours, Sunday 1 hour.
 - **Active applications:** _fill in_
 - **Dropped:** Ensemble Weather AI (looked like a scam, October 2026).
@@ -43,7 +43,7 @@ _fill in (just one: for example, send two targeted applications, or start the he
 | Project | Where | State |
 | --- | --- | --- |
 | Personal System (these notes) | `10 Projects/Personal System` | Built 2026-10-24; filling in the blanks |
-| Job search | `10 Clients/Work/Job Hunt` | _fill in_ |
+| Job search | `Personal System/Job Hunt` | _fill in_ |
 | ERPNext evaluation for Michael (paid; possible referral at his company) | [[ERPNext]] | Installed locally. Next: review customization options. _Still active?_ |
 | Master app, formerly PM app (Tauri + Svelte) | `10 Clients/Work/BWS/Projects/PM` | Planned in 7 slices, using these notes as data. Not started. Name and one-app-or-several still open. |
 | Local app setup (Next.js + Postgres) | `20 Notes/App Setup Plan` | Written, groundwork for the Budget app. _Set up yet?_ |

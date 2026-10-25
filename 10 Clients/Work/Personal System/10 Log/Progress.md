@@ -53,3 +53,4 @@ Paste the last week or month of entries with `05 Current Status` and `09 Roadmap
 - 2026-10-24 | decision | Moved the Action Plan to 10 Projects/Personal System and pointed AGENTS.md and the Cursor vault rule at 00 Start Here | goal: systems | why: it's a live system and app data, not research; the rules pointed at a note that didn't exist
 - 2026-10-24 | done | Prefilled About Me and Goals from job-hunt notes (schedule, household, money floor, target role) | goal: systems | link: 01 About Me
 - 2026-10-24 | done | Rewrote the PM app plan as the Master app, reading and writing these notes instead of SQLite | goal: apps | link: 07 Tool Ideas
+- 2026-10-25 | decision | Merged CareerOS, Job Hunt, and Job Hunt 2 into Personal System/Job Hunt; deleted the duplicate copies and combined both Skill gaps lists | goal: work | why: Job Hunt 2 and CareerOS were copies of the same notes, so three folders meant three places to check | link: 00 Start Here
