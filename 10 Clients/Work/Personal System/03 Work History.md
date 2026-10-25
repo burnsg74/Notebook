@@ -18,7 +18,7 @@ status: draft
 - **Supporting depth:** 10+ years of PHP/Laravel and eCommerce backends (Magento, Commerce7).
 - **Leadership:** Former CTO (twice) and founder; led teams at Red Pocket, Calltext, and Makpar.
 - **Don't:** open with a long list of languages, or lead with truck driving in technical applications.
-- **Can't do (skip these jobs):** Ruby on Rails, React Native, BigCommerce, Salesforce, Django, Java, Spring Boot, UI/UX design. From [[Skill gaps]].
+- **Can't do (skip these jobs):** Ruby on Rails, React Native, BigCommerce, Salesforce, Django, Java, Spring Boot, UI/UX design. From [[10 Clients/Work/Job Hunt 2/3-Profile/Skill gaps]].
 
 ## Timeline
 
@@ -46,8 +46,6 @@ Education: B.S. Computer Science, University of Phoenix (1995–2005).
 
 _To check: resume and client notes disagree on GSATi start (Mar vs Apr 2022), iRemedy end (Jul vs Apr 2020), and Filter Easy vs Second Nature as the company name. The table uses the resume. Fix whichever source is wrong._
 
-Full write-ups: [[2 - Work History]]. Latest tailored resume: [[Resume - Ensemble Weather AI]].
-
 ## Stories to tell in interviews
 
 Prepare these as short stories (problem, what I did, result), not memorized answers.
@@ -66,22 +64,10 @@ Prepare these as short stories (problem, what I did, result), not memorized answ
 
 ## Why the last search stalled (Oct 2024 – Oct 2025)
 
-Not a performance issue: the SBA contract ended and Makpar had no project to move me to. The search hit a bad market (layoffs, AI uncertainty, 500–2,000 applicants per role), keyword-matching applicant tracking systems that read broad experience as unfocused, automated coding screens, and my weak live-interview performance. Unemployment ran out in September 2025. Full analysis: [[3 - What went wrong - Post October 2024]].
-
-## What I liked and didn't
-
-_Fill in. This helps the AI judge which jobs fit you, not just which ones you could get._
-
-| Company | Liked | Didn't like | Why it ended |
-| --- | --- | --- | --- |
-| Makpar | _fill in_ | _fill in_ | Contract ended, no next project |
-| GSATi | _fill in_ | _fill in_ | _fill in_ |
-| Moxxi Marketing | _fill in_ | _fill in_ | _fill in_ |
-| Red Pocket Mobile | _fill in_ | _fill in_ | _fill in_ |
-| Barrelhead | _fill in_ | _fill in_ | Current |
+Not a performance issue: the SBA contract ended and Makpar had no project to move me to. The search hit a bad market (layoffs, AI uncertainty, 500–2,000 applicants per role), keyword-matching applicant tracking systems that read broad experience as unfocused, automated coding screens, and my weak live-interview performance. Unemployment ran out in September 2025. Full analysis: [[10 Clients/Work/Job Hunt 2/5-Notes/1-Job Hunting/3 - What went wrong - Post October 2024]].
 
 ## Related notes
 
-- Target role, channels, and weekly job-search plan: [[4 - Action Plan]]
+- Target role, channels, and weekly job-search plan: [[10 Clients/Work/Job Hunt 2/5-Notes/1-Job Hunting/4 - Action Plan]]
 - Market outlook for 2027: [[Work trajectory]]
 - Application prompts: `10 Clients/Work/CareerOS/8-Prompts`

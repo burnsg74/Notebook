@@ -11,4 +11,4 @@ Started working for Makpar Corporation, remote, as a Senior Full Stack Engineer.
 
 Developed a React SPA with Redux, hosted on AWS S3 and CloudFront, and designed backend services using AWS API Gateway, Python-based authenticators, AWS Lambda, and DynamoDB. Ensured code quality throughout the project using ESLint, Jest, SonarQube, and Playwright.
 
-Source: [[2 - Work History]]
+Source: [[10 Clients/Work/Job Hunt 2/5-Notes/1-Job Hunting/2 - Work History]]

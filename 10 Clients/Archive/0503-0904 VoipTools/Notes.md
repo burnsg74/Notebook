@@ -13,4 +13,4 @@ Built a custom web application for monitoring and configuring VoIP equipment, gi
 
 Alongside the technical work, managed all aspects of the business, from operations to client relationships, for the full four years the company operated.
 
-Source: [[2 - Work History]]
+Source: [[10 Clients/Work/Job Hunt 2/5-Notes/1-Job Hunting/2 - Work History]]

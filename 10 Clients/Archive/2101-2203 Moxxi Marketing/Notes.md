@@ -11,4 +11,4 @@ Started working for Moxxi Marketing, remote, as a Senior Full Stack Engineer. Cr
 
 Also developed a Magento eCommerce website integrated with a companion Laravel application, bridging the two platforms for a more seamless customer experience.
 
-Source: [[2 - Work History]]
+Source: [[10 Clients/Work/Job Hunt 2/5-Notes/1-Job Hunting/2 - Work History]]

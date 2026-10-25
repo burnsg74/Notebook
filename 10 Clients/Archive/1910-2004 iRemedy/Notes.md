@@ -11,4 +11,4 @@ Started working for iRemedy, a healthcare supplies marketplace focused on suppli
 
 Developed a Python-based web scraper tool for automated data imports, supporting the company's core mission of market transparency. Also worked on multiple storefront applications built on Magento, contributed to a Laravel-based product management system, and updated and maintained the company's Rackspace servers.
 
-Source: [[2 - Work History]]
+Source: [[10 Clients/Work/Job Hunt 2/5-Notes/1-Job Hunting/2 - Work History]]

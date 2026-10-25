@@ -35,7 +35,7 @@ status: draft
 
 - **Problem:** finding close-fit remote jobs, screening out bad ones (and scams), tailoring applications, and tracking follow-ups takes more evening energy than I have.
 - **Does:** collects postings, screens them against my profile and skill gaps, flags scam signs, drafts answers, tracks status and next action.
-- **Exists:** CareerOS prompts: a job-fit screener that returns structured results, plus application-answer prompts. [[Skill gaps]] lists dealbreaker skills. Job boards are listed in `10 Clients/Work/Job Hunt/2-Job Boards`.
+- **Exists:** CareerOS prompts: a job-fit screener that returns structured results, plus application-answer prompts. [[10 Clients/Work/Job Hunt 2/3-Profile/Skill gaps]] lists dealbreaker skills. Job boards are listed in `10 Clients/Work/Job Hunt/2-Job Boards`.
 - **Smallest version:** _fill in (for example: paste a posting, get a fit score and red flags, save a note with status)_
 
 ### Budget app

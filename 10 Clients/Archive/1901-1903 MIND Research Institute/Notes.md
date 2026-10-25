@@ -11,4 +11,4 @@ Started working for MIND Research Institute, a social benefit organization suppo
 
 Also updated backend API systems written in Laravel and added AWS hooks for monitoring and alerts, helping the organization maintain more stable and observable systems.
 
-Source: [[2 - Work History]]
+Source: [[10 Clients/Work/Job Hunt 2/5-Notes/1-Job Hunting/2 - Work History]]

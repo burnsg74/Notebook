@@ -11,4 +11,4 @@ Started working for ChipMonk Technology, a platform for aggregating electronic c
 
 Worked with AWS infrastructure including EC2, RDS, Redis/ElastiCache, Load Balancer, and Route 53 to ensure the platform was scalable and reliable, rounding out the technology footprint with Bootstrap, jQuery, and Redis.
 
-Source: [[2 - Work History]]
+Source: [[10 Clients/Work/Job Hunt 2/5-Notes/1-Job Hunting/2 - Work History]]

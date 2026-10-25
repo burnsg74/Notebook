@@ -11,4 +11,4 @@ Started working for Calltext, an all-in-one business and communication suite, as
 
 Worked extensively with AWS services including EC2, RDS, Redis/ElastiCache, Load Balancer, and Route 53 to support the platform's infrastructure. Developed backend features using Phalcon PHP and integrated additional APIs for ringless voicemail services. On the frontend, built features using VueJS, WebSocket, and AJAX to create responsive, real-time user experiences.
 
-Source: [[2 - Work History]]
+Source: [[10 Clients/Work/Job Hunt 2/5-Notes/1-Job Hunting/2 - Work History]]

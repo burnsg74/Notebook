@@ -11,4 +11,4 @@ Started working for Second Nature, remote, as a Senior Full Stack Engineer. Mode
 
 Led the migration to a new website architecture designed to support product line expansion, positioning the platform for future growth.
 
-Source: [[2 - Work History]]
+Source: [[10 Clients/Work/Job Hunt 2/5-Notes/1-Job Hunting/2 - Work History]]

@@ -11,4 +11,4 @@ Started working for GSATi, remote, as a Senior Full Stack Engineer. Developed a 
 
 Utilized AWS Serverless technology for seamless system integration, while also maintaining legacy systems built on PHP Laminas to ensure continued operational efficiency.
 
-Source: [[2 - Work History]]
+Source: [[10 Clients/Work/Job Hunt 2/5-Notes/1-Job Hunting/2 - Work History]]

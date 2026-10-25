@@ -26,7 +26,7 @@ _fill in (just one: for example, send two targeted applications, or start the he
 
 ## Job search
 
-- **Target:** Remote full-stack or tech lead role at a small company (10–50 people), $110k–$140k, or contract work at $30/hr or more. Detail in [[4 - Action Plan]].
+- **Target:** Remote full-stack or tech lead role at a small company (10–50 people), $110k–$140k, or contract work at $30/hr or more. Detail in [[10 Clients/Work/Job Hunt 2/5-Notes/1-Job Hunting/4 - Action Plan]].
 - **Weekly time budget:** weeknights 30 min, Saturday 2 hours, Sunday 1 hour.
 - **Active applications:** _fill in_
 - **Dropped:** Ensemble Weather AI (looked like a scam, October 2026).

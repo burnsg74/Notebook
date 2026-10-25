@@ -11,7 +11,7 @@ format: v1
 
 Get back to a stable remote engineering income first; let health, systems, and apps support that, not compete with it.
 
-_These milestones are a first draft based on `02 Goals` and [[4 - Action Plan]]. Change any that feel wrong or too big._
+_These milestones are a first draft based on `02 Goals` and [[10 Clients/Work/Job Hunt 2/5-Notes/1-Job Hunting/4 - Action Plan]]. Change any that feel wrong or too big._
 
 ## Milestone format
 

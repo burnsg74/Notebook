@@ -11,4 +11,4 @@ Started working for Ronati, an eCommerce tool for sellers of antiques and vintag
 
 Developed Python micro applications for scraping and product syncing from AWS Lambda, adding serverless capabilities to the company's data pipeline. Also established a full CI/CD pipeline using Docker and AWS services, improving the team's deployment process.
 
-Source: [[2 - Work History]]
+Source: [[10 Clients/Work/Job Hunt 2/5-Notes/1-Job Hunting/2 - Work History]]
