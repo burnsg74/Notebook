@@ -1,14 +1,14 @@
 ---
 note_type: Research
-topic: Personal System
+topic: Alfred
 created: 2026-10-24 06:20
 status: active
 ---
-> Map of the Personal System files: what each one holds, which to give an AI for a given question, and how to keep them current.
+> Map of the Alfred files: what each one holds, which to give an AI for a given question, and how to keep them current.
 
 ## Purpose
 
-These files are context for future AI chats and the data for my apps (see `07 Tool Ideas`). Each file answers one kind of question, so a chat gets only the files it needs instead of everything. Files with a `format:` field have a fixed line layout that apps parse; keep entries in that layout.
+These notes are Alfred's brain: context for AI chats and the documents the app indexes. Records (tasks, log, budget, job leads) are moving into Alfred's database, so these notes are no longer the app's data store (see `07 Tool Ideas`). Each file answers one kind of question, so a chat gets only the files it needs instead of everything. Files with a `format:` field are import sources: keep entries in that layout until the matching Alfred module ships, then the note is imported once and frozen.
 
 ## Files
 
@@ -21,15 +21,17 @@ These files are context for future AI chats and the data for my apps (see `07 To
 | `04 Health` | Headaches and depression: history, triggers, what helped, current care | When something changes |
 | `05 Current Status` | Dated snapshot: money, job search, health, active projects | Weekly |
 | `06 Systems and Tools` | Everyday routines and the tools I use (Cursor, Zed, Raycast, Mail, Chrome, Obsidian, Warp, macOS) | When a system changes |
-| `07 Tool Ideas` | Apps to build: Budget, Job Hunt, Freelance, Master app | When an idea changes |
+| `07 Tool Ideas` | What Alfred is, its modules (Budget and Job Hunt are merged in), decisions, build order | When a decision changes |
 | `08 Next Steps` | Menu of tasks tagged by type, energy, time, and context | Weekly |
 | `09 Roadmap` | Milestones at 3, 6, and 12 months | Monthly |
 | `10 Log/Progress` | Dated record of what got done or decided, as evidence of progress | Whenever |
 | `10 Log/Health` | Dated entries for headaches, mood, meds, sleep, and triggers | Whenever |
+| `11 Open Questions` | Open decisions about Alfred, each with a recommendation | Until decided |
+| `12 Work Systems` | Systems borrowed (GTD and others) and the working system per task type | When a system changes |
 | `AI Instructions` | How the AI should behave, which model fits which question, and how to get better answers | Rarely |
 | `Job Hunt/` | Job-search working files: contacts, job boards, notes, interview prep, skill gaps, CareerOS prompts, resumes | During the search |
 
-`10 Log` is a folder so the future Master app can read it. Entries use a fixed format so both people and apps can parse them.
+`10 Log` entries use a fixed format so people can read them and Alfred can import them once.
 
 ## Which files to give the AI
 
@@ -42,7 +44,8 @@ Always include `AI Instructions` and `01 About Me`. Then add:
 | Money and budget | `02 Goals`, `05 Current Status` |
 | Health, mood, headaches | `04 Health`, `10 Log/Health` (recent weeks) |
 | Improve a tool or routine | `06 Systems and Tools` |
-| Build a new app | `06 Systems and Tools`, `07 Tool Ideas` |
+| Build or plan Alfred | `06 Systems and Tools`, `07 Tool Ideas`, `11 Open Questions`, `12 Work Systems`, and the project plan (`10 Clients/Work/BWS/Projects/Alfred/Notes`) |
+| Choose or improve a system (GTD, review, pipeline) | `12 Work Systems`, `06 Systems and Tools` |
 | Long-range planning | `02 Goals`, `05 Current Status`, `09 Roadmap`, `10 Log/Progress` |
 | Weekly review | `05 Current Status`, `08 Next Steps`, `10 Log/Progress`, `10 Log/Health` |
 
@@ -55,4 +58,4 @@ Always include `AI Instructions` and `01 About Me`. Then add:
 | Monthly, about 20 min | Review `09 Roadmap` (steps are in that note) |
 | When life changes | Update `01 About Me`, `02 Goals`, `04 Health`, or `06 Systems and Tools` |
 
-Built 2026-10-24. History of changes is in `10 Log/Progress`.
+Built 2026-10-24. Renamed Alfred on 2026-10-26 (earlier names: PM app, Master app, Personal System). History of changes is in `10 Log/Progress`.

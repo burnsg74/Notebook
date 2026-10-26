@@ -1,6 +1,6 @@
 ---
 note_type: Research
-topic: Personal System
+topic: Alfred
 created: 2026-10-24 07:00
 updated: 2026-10-24
 status: draft

@@ -1,8 +1,8 @@
 ---
 note_type: Research
-topic: Personal System
+topic: Alfred
 created: 2026-10-24 07:40
-updated: 2026-10-24
+updated: 2026-10-26
 format: v1
 ---
 > What should be true in 3, 6, and 12 months for each goal. Review monthly. AI: use this to check whether `08 Next Steps` is pointed the right way, and flag milestones that are slipping.
@@ -11,7 +11,7 @@ format: v1
 
 Get back to a stable remote engineering income first; let health, systems, and apps support that, not compete with it.
 
-_These milestones are a first draft based on `02 Goals` and [[10 Clients/Work/Personal System/Job Hunt/5-Notes/1-Job Hunting/4 - Action Plan]]. Change any that feel wrong or too big._
+_These milestones are a first draft based on `02 Goals` and [[10 Clients/Work/Alfred/Job Hunt/5-Notes/1-Job Hunting/4 - Action Plan]]. Change any that feel wrong or too big._
 
 ## Milestone format
 
@@ -34,7 +34,8 @@ Foundation: notes filled in, habits started, job search running.
 - [ ] A few warm contacts restarted | goal: work | by: 2027-01-24
 - [ ] At least three close-fit interviews | goal: work | by: 2027-01-24
 - [ ] Picking from Next Steps and logging progress is a habit (most weeks) | goal: systems | by: 2027-01-24
-- [ ] Decided: one app or several, and the Master app's name | goal: apps | by: 2027-01-24
+- [x] Decided: one app, and its name (Alfred) | goal: apps | by: 2027-01-24
+- [ ] Alfred Tasks, Log, and Today in daily use, with the database as the source of truth | goal: apps | by: 2027-01-24
 
 ## By 6 months (2027-04-24)
 
@@ -45,7 +46,9 @@ Switch: remote income in place or close.
 - [ ] Know my main headache triggers from the log, and testing one change | goal: health | by: 2027-04-24
 - [ ] Core routines written down in Systems and Tools (bills, email, job search, health log) | goal: systems | by: 2027-04-24
 - [ ] Each daily tool's setup documented in its 20 Notes page | goal: tools | by: 2027-04-24
-- [ ] Job Hunt app smallest version in use | goal: apps | by: 2027-04-24
+- [ ] Alfred Budget history and cash-flow low point in use | goal: apps | by: 2027-04-24
+- [ ] Alfred Job Hunt module (pipeline and fit screener) in use | goal: apps | by: 2027-04-24
+- [ ] Alfred read tools work from Cursor and Raycast (MCP) | goal: apps | by: 2027-04-24
 
 ## By 12 months (2027-10-24)
 
@@ -56,7 +59,7 @@ Stable: settled remote work, better health, systems that mostly run themselves.
 - [ ] Fewer headache days than in the first month of the log | goal: health | by: 2027-10-24
 - [ ] Most weeks, mood averages 3 or better in the log | goal: health | by: 2027-10-24
 - [ ] Weekly review happens most weeks and has improved at least three routines | goal: systems | by: 2027-10-24
-- [ ] Master app smallest software version in daily use | goal: apps | by: 2027-10-24
+- [ ] Alfred in daily use for tasks, log, budget, and job leads; dark theme added | goal: apps | by: 2027-10-24
 - [ ] _fill in (what would make this a happy year?)_ | goal: life | by: 2027-10-24
 
 ## Monthly review

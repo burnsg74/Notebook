@@ -1,15 +1,15 @@
 ---
 note_type: Research
-topic: Personal System
+topic: Alfred
 created: 2026-10-24 07:20
-updated: 2026-10-24
+updated: 2026-10-26
 status: draft
 ---
 > The tools I use, what each one is for, the routines that run my week, and what still causes friction. AI: use this before suggesting a new tool or setup; prefer improving what's here over adding something new.
 
 ## Principles
 
-- Obsidian markdown is the record. Other tools read and write it; they don't hold a second copy of the plan.
+- Alfred's database is the record for tasks, log, budget, and job leads. Obsidian markdown is the record for documents and notes. Other tools read Alfred through MCP, the CLI, or exports; they don't hold a second copy of the plan.
 - One tool per job. Before adding a tool, name the one it replaces or the friction it removes.
 - Systems must work on a tired, headache day in 10–15 minutes. If a routine needs willpower, it's too big.
 - Match tasks to context (where I am, what device), not to rigid time blocks.
@@ -18,7 +18,8 @@ status: draft
 
 | Tool | Used for | Setup | Note |
 | --- | --- | --- | --- |
-| Obsidian | Notes, plans, logs (this vault, synced by Dropbox) | _fill in_ | [[Obsidian]] |
+| Alfred | Tasks, log, budget, job leads, Today (in build) | Not started | [[10 Clients/Work/BWS/Projects/Alfred/Notes|Alfred project plan]] |
+| Obsidian | Notes and documents (this vault, synced by Dropbox) | _fill in_ | [[Obsidian]] |
 | Cursor IDE | AI-assisted coding; editing this vault with an agent | _fill in_ | [[Cursor IDE]] |
 | Zed IDE | Fast editor for focused coding | _fill in_ | [[Zed IDE]] |
 | Raycast | Launcher, quicklinks, snippets, quick capture | _fill in_ | [[Raycast]] |

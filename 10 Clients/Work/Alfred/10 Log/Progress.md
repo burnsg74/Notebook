@@ -4,7 +4,7 @@ topic: Progress
 created: 2026-10-24 07:45
 format: v1
 ---
-> Record of what got done, decided, and learned. One line per entry, newest at the bottom. This is the evidence of progress; the AI and the Master app read it for weekly reviews and to show how far I've come.
+> Record of what got done, decided, and learned. One line per entry, newest at the bottom. This is the evidence of progress; the AI and Alfred read it for weekly reviews and to show how far I've come. When Alfred's Log module ships, this note is imported once and frozen.
 
 ## How to log
 
@@ -23,7 +23,7 @@ Each line: date and optional time, then a type, then a short description, then o
 | `decision` | A choice that changes the plan, with the reason in a `why:` field |
 | `win` | Something good that wasn't a task (a reply, a good day, a compliment) |
 | `stuck` | Something blocked, so the weekly review can deal with it |
-| `time` | Time spent on a task, usually written by the Master app's timer (`duration:` and `id:` fields) |
+| `time` | Time spent on a task, usually written by Alfred's timer (`duration:` and `id:` fields) |
 
 | Field | Values |
 | --- | --- |
@@ -50,7 +50,12 @@ Paste the last week or month of entries with `05 Current Status` and `09 Roadmap
 - 2026-10-24 | decision | PM app and Master app are the same app; name to be decided | goal: apps | link: 07 Tool Ideas
 - 2026-10-24 | decision | The Action Plan notes are the data for my apps; no second database | goal: apps | link: 07 Tool Ideas
 - 2026-10-24 | done | Rewrote AI Instructions: AI rules, model per question, setup, tips for better answers | goal: systems | link: AI Instructions
-- 2026-10-24 | decision | Moved the Action Plan to 10 Projects/Personal System and pointed AGENTS.md and the Cursor vault rule at 00 Start Here | goal: systems | why: it's a live system and app data, not research; the rules pointed at a note that didn't exist
+- 2026-10-24 | decision | Moved the Action Plan to 10 Clients/Work/Alfred and pointed AGENTS.md and the Cursor vault rule at 00 Start Here | goal: systems | why: it's a live system and app data, not research; the rules pointed at a note that didn't exist
 - 2026-10-24 | done | Prefilled About Me and Goals from job-hunt notes (schedule, household, money floor, target role) | goal: systems | link: 01 About Me
 - 2026-10-24 | done | Rewrote the PM app plan as the Master app, reading and writing these notes instead of SQLite | goal: apps | link: 07 Tool Ideas
-- 2026-10-25 | decision | Merged CareerOS, Job Hunt, and Job Hunt 2 into Personal System/Job Hunt; deleted the duplicate copies and combined both Skill gaps lists | goal: work | why: Job Hunt 2 and CareerOS were copies of the same notes, so three folders meant three places to check | link: 00 Start Here
+- 2026-10-25 | decision | Merged CareerOS, Job Hunt, and Job Hunt 2 into Alfred/Job Hunt; deleted the duplicate copies and combined both Skill gaps lists | goal: work | why: Job Hunt 2 and CareerOS were copies of the same notes, so three folders meant three places to check | link: 00 Start Here
+- 2026-10-26 | decision | The app is named Alfred. PM app, Master app, and Personal System are retired names; notes and folders renamed | goal: apps | why: one name for the app, the notes, and the repo | link: 07 Tool Ideas
+- 2026-10-26 | decision | A database is the source of truth for records (tasks, log, budget, job leads, events). Markdown holds documents | goal: apps | why: records need queries and history (power bill, weekly summary); documents need to stay prose. Supersedes the 2026-10-24 decision to use notes as the data | link: 07 Tool Ideas
+- 2026-10-26 | decision | Budget and Job Hunt merge into Alfred as modules; one app, not several | goal: apps | why: one place to look; separate apps meant separate places to forget | link: 07 Tool Ideas
+- 2026-10-26 | decision | Light theme first; dark theme later via a second token set | goal: apps | why: ship one theme well; colors live only in CSS variables so dark is a swap | link: 07 Tool Ideas
+- 2026-10-26 | done | Wrote 11 Open Questions and 12 Work Systems; rewrote the Alfred project plan around the database | goal: apps | link: 11 Open Questions

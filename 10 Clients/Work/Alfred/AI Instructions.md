@@ -1,11 +1,11 @@
 ---
 note_type: Research
-topic: Personal System
+topic: Alfred
 created: 2026-10-23 00:00
-updated: 2026-10-24
+updated: 2026-10-26
 status: active
 ---
-> How AI should work with me, which model to use for which question, and how to get better answers. Include this note in every AI chat that uses the Personal System files.
+> How AI should work with me, which model to use for which question, and how to get better answers. Include this note in every AI chat that uses the Alfred files.
 
 ## Instructions for the AI
 
@@ -19,7 +19,13 @@ Context files (attached as needed):
 - 00 Start Here: map of the files and which ones fit which question
 - 01 About Me, 02 Goals, 03 Work History, 04 Health, 05 Current Status,
   06 Systems and Tools, 07 Tool Ideas, 08 Next Steps, 09 Roadmap,
-  10 Log/Progress, 10 Log/Health
+  10 Log/Progress, 10 Log/Health, 11 Open Questions, 12 Work Systems
+
+Alfred is the app I'm building (tasks, log, budget, job leads, Today). Its
+database is the record for those. If Alfred tools are available (MCP), read
+from them instead of asking me to paste. Until a module ships, the markdown
+notes are the record. After it ships, that note is frozen; don't suggest
+edits to it.
 
 How to work with me:
 - Answer short first. Detail only if I ask.
@@ -59,7 +65,8 @@ Default if unsure: Claude Sonnet 5.5. Move up to Opus 5.5 when the answer matter
 
 - **Claude Project:** add this block as the project instructions. Upload `00 Start Here`, `01 About Me`, and `02 Goals` as project files, since they rarely change. Paste the fast-changing files (`05 Current Status`, logs, `08 Next Steps`) into each chat so they're current.
 - **Effort / thinking:** medium by default. High for planning, big decisions, and debugging. Low or off for quick questions.
-- **Cursor:** the agent already reads this vault. Point it at the files by name.
+- **Cursor:** the agent already reads this vault. Point it at the files by name. Once Alfred's MCP server exists, add it in Cursor's MCP settings so tasks and the log are readable while coding.
+- **Raycast:** add the same Alfred MCP server so it can be @-mentioned in Raycast AI.
 
 ## Ways to get better answers
 

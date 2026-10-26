@@ -1,11 +1,11 @@
 ---
 note_type: Research
-topic: Personal System
+topic: Alfred
 created: 2026-10-24 07:35
 updated: 2026-10-24
 format: v1
 ---
-> Menu of tasks to pick from, tagged by type, energy, time, and context. Pick one that fits right now; no need to work top to bottom. AI and the Master app: suggest from here, and log finished tasks to `10 Log/Progress`.
+> Menu of tasks to pick from, tagged by type, energy, time, and context. Pick one that fits right now; no need to work top to bottom. AI and Alfred: suggest from here, and log finished tasks to `10 Log/Progress`. When Alfred's Tasks module ships, this note is imported once and frozen.
 
 ## How to pick
 
@@ -36,7 +36,7 @@ One task per line, a checkbox, the title, then `key: value` fields split by `|`:
 | `link` | Optional: note to open |
 | `status` | Optional: `doing` while in progress. No field means not started. |
 | `note` | Optional: one-line description |
-| `id` | Added by the Master app; don't edit |
+| `id` | Added by Alfred on import; don't edit |
 
 When a task is done, check it and add a line to `10 Log/Progress`. Recurring tasks stay unchecked; just log each time.
 
@@ -51,14 +51,19 @@ When a task is done, check it and add a line to `10 Log/Progress`. Recurring tas
 - [ ] Find two close-fit roles on Wellfound or Work at a Startup | type: do | energy: med | time: 30m | context: laptop | goal: work | added: 2026-10-24 | link: 1 - Wellfound
 - [ ] Get a professional headshot | type: do | energy: med | time: 30m | context: laptop | goal: work | added: 2026-10-24 | link: Professional headshot
 - [ ] Set up a simple budget spreadsheet (cap 2 hours) | type: do | energy: med | time: 2h | context: laptop | goal: money | added: 2026-10-24
-- [ ] Pick a name for the Master app | type: do | energy: low | time: 15m | context: tablet | goal: apps | added: 2026-10-24 | link: 07 Tool Ideas
-- [ ] Decide: one app or several | type: do | energy: med | time: 30m | context: laptop | goal: apps | added: 2026-10-24 | link: 07 Tool Ideas
+- [x] Pick a name for Alfred | type: do | energy: low | time: 15m | context: tablet | goal: apps | added: 2026-10-24 | link: 07 Tool Ideas
+- [x] Decide: one app or several | type: do | energy: med | time: 30m | context: laptop | goal: apps | added: 2026-10-24 | link: 07 Tool Ideas
+- [ ] Decide the Alfred database engine (Postgres recommended) | type: do | energy: low | time: 15m | context: laptop | goal: apps | added: 2026-10-26 | link: 11 Open Questions
+- [ ] Create the alfred and alfred_dev databases and migration 001 (tasks, log_entries, time_entries) | type: do | energy: high | time: 1h | context: focus | goal: apps | added: 2026-10-26 | link: Notes
+- [ ] Replace the stub App.svelte with the zone shell and light tokens | type: do | energy: high | time: 2h | context: focus | goal: apps | added: 2026-10-26 | link: Notes
+- [ ] Message Michael before Thanksgiving: share one ERPNext finding, ask where the CEO decision stands | type: do | energy: low | time: 15m | context: laptop | goal: work | added: 2026-10-26 | link: Michael Mussulis | note: send by Nov 25
 
 ## Learn
 
 - [ ] Rehearse the Makpar portal story out loud (problem, what I did, result) | type: learn | energy: med | time: 30m | context: focus | goal: work | added: 2026-10-24 | link: 03 Work History
 - [ ] Listen to one episode on interviewing or AI tools | type: learn | energy: low | time: 30m | context: audio | goal: work | added: 2026-10-24
 - [ ] _fill in (Cursor agent workflow, Svelte 5, Tauri, ...)_ | type: learn | energy: high | time: 1h | context: focus | goal: tools | added: 2026-10-24
+- [ ] Pick one rule from GTD and one from Shape Up to try for two weeks | type: learn | energy: low | time: 30m | context: tablet | goal: systems | added: 2026-10-26 | link: 12 Work Systems
 
 ## Shortcuts
 

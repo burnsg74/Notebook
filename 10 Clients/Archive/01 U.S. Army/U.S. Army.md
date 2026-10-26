@@ -11,4 +11,4 @@ Started serving in the U.S. Army as a Satellite System Network Engineer (31S). I
 
 Performed preventive maintenance and troubleshooting on communications equipment and generators, ensuring reliable uptime for mission-critical systems. Controlled multiple satellite networks with over 70 terminals in support of Department of Defense operations, and held a top-secret clearance throughout six years of service.
 
-Source: [[10 Clients/Work/Job Hunt 2/5-Notes/1-Job Hunting/2 - Work History]]
+Source: [[10 Clients/Work/Alfred/Job Hunt/5-Notes/1-Job Hunting/2 - Work History]]

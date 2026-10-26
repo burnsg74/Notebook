@@ -13,4 +13,4 @@ Managed all IT responsibilities, including installing and maintaining Linux serv
 
 Beyond infrastructure, also designed, developed, and deployed the company's website and CRM system, gaining early exposure to full-stack development work that would define much of the later career.
 
-Source: [[10 Clients/Work/Job Hunt 2/5-Notes/1-Job Hunting/2 - Work History]]
+Source: [[10 Clients/Work/Alfred/Job Hunt/5-Notes/1-Job Hunting/2 - Work History]]

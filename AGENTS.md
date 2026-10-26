@@ -1,16 +1,16 @@
 # Agent instructions
 
-This vault is a personal knowledge system in Obsidian markdown. Cursor and Raycast are clients of these files. They are not a second database.
+This vault holds the documents and notes behind Alfred, my personal assistant app. Markdown here is the record for documents. Alfred's database is the record for tasks, log, budget, and job leads. Cursor and Raycast are clients of both; they are not a second source of truth.
 
 ## Read first
 
-Before changing the vault, read `10 Projects/Personal System/00 Start Here.md`. It maps the Personal System notes and says which to read for a given task.
+Before changing the vault, read `10 Clients/Work/Alfred/00 Start Here.md`. It maps the Alfred notes and says which to read for a given task. The app's project plan is `10 Clients/Work/BWS/Projects/Alfred/Notes.md`.
 
 ## How to work
 
 1. Work on what the user asks. For planning, pick from `08 Next Steps` and check `05 Current Status`.
-2. When something is finished or decided, add a line to `10 Log/Progress.md` in its existing format. Decisions include a `why:` field.
-3. Notes with a `format:` field in their frontmatter are app data. Keep new lines in that exact layout.
+2. When something is finished or decided, add a line to `10 Clients/Work/Alfred/10 Log/Progress.md` in its existing format. Decisions include a `why:` field. After Alfred's Log module ships, use Alfred's tools instead and leave that note frozen.
+3. Notes with a `format:` field are import sources for Alfred. Keep new lines in that exact layout until the note carries a `Frozen:` banner, then stop editing it.
 4. One project, one folder. Design, plan, done, and left stay together.
 
 ## Where notes go
@@ -21,6 +21,6 @@ Before changing the vault, read `10 Projects/Personal System/00 Start Here.md`. 
 - `90 Archive` — finished or dropped.
 - `Templates` — note templates: `Inbox.md` and `Note.md`.
 
-## Leave alone until the Personal System decides it
+## Leave alone until Alfred decides it
 
-Do not add learning subjects or a custom automation layer. App plans live in `10 Projects/Personal System/07 Tool Ideas.md`; do not start an app it hasn't decided on. A note in `20 Notes` is reference, not a learning subject: do not add level or practice tracking to it.
+Do not add learning subjects or a custom automation layer. App scope and build order live in `10 Clients/Work/Alfred/07 Tool Ideas.md`; do not start a module it hasn't scheduled. A note in `20 Notes` is reference, not a learning subject: do not add level or practice tracking to it.

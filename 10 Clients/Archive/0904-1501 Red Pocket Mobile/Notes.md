@@ -13,4 +13,4 @@ Managed all IT department functions and installed and modified SugarCRM and Mage
 
 Also built out reporting and customer service automation tools, along with APIs connecting to cell phone providers. As the IT department grew, hired and managed employees, using Jira to organize and track the team's work.
 
-Source: [[10 Clients/Work/Job Hunt 2/5-Notes/1-Job Hunting/2 - Work History]]
+Source: [[10 Clients/Work/Alfred/Job Hunt/5-Notes/1-Job Hunting/2 - Work History]]
