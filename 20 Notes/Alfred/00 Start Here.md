@@ -29,7 +29,7 @@ These notes are Alfred's brain: context for AI chats and the documents the app i
 | `11 Open Questions` | Open decisions about Alfred, each with a recommendation | Until decided |
 | `12 Work Systems` | Systems borrowed (GTD and others) and the working system per task type | When a system changes |
 | `AI Instructions` | How the AI should behave, which model fits which question, and how to get better answers | Rarely |
-| `Job Hunt/` | Job-search working files: contacts, job boards, notes, interview prep, skill gaps, CareerOS prompts, resumes | During the search |
+| `10 Clients/Work/Alfred/Job Hunt/` | Job-search working files: contacts, job boards, notes, interview prep, skill gaps, CareerOS prompts, resumes. These stay with client work, not in this folder. | During the search |
 
 `10 Log` entries use a fixed format so people can read them and Alfred can import them once.
 

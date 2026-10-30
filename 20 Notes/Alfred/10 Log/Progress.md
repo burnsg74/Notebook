@@ -66,3 +66,4 @@ Paste the last week or month of entries with `05 Current Status` and `09 Roadmap
 - 2026-10-29 | decision | Local web frontends default to Vite + Svelte SPA, not SvelteKit | goal: apps | why: static SPA needs no Kit; matches Alfred's frontend choice | link: 20 Notes/Local web app setup
 - 2026-10-29 | decision | Combined Learning, How To, Research, Services Tools, and Reference into `20 Notes`; type is `note_type` in frontmatter, not folder | goal: systems | why: one place to look; folders duplicated what YAML already said | link: README
 - 2026-10-29 | done | Moved those folders into `20 Notes`, merged Obsidian/Warp/Zed service duplicates into the tool notes, updated README and AGENTS | goal: systems | link: 20 Notes
+- 2026-10-30 | decision | Moved Alfred's brain notes into `20 Notes/Alfred`; job-search files stay in `10 Clients/Work/Alfred/Job Hunt` | goal: systems | why: the morning backup had buried them under Job History | link: 00 Start Here

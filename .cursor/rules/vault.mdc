@@ -7,6 +7,6 @@ alwaysApply: true
 
 Follow `AGENTS.md` at the vault root.
 
-Before changing the vault, read `10 Clients/Work/Alfred/00 Start Here.md`. Log finished work and decisions (with `why:`) in `10 Clients/Work/Alfred/10 Log/Progress.md`, in its existing format.
+Before changing the vault, read `20 Notes/Alfred/00 Start Here.md`. Log finished work and decisions (with `why:`) in `20 Notes/Alfred/10 Log/Progress.md`, in its existing format.
 
-Markdown in this vault is the record for documents. Alfred's database is the record for tasks, log, budget, and job leads; do not copy that data into notes by hand once a module has shipped. Do not add learning subjects or an automation layer. Alfred's scope and build order are in `07 Tool Ideas`; don't start a module it hasn't scheduled.
+Markdown in this vault is the record for documents. Alfred's database is the record for tasks, log, budget, and job leads; do not copy that data into notes by hand once a module has shipped. Do not add learning subjects or an automation layer. Alfred's scope and build order are in `20 Notes/Alfred/07 Tool Ideas.md`; don't start a module it hasn't scheduled.

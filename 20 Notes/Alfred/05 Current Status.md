@@ -41,8 +41,8 @@ Keep the job-search minimum going
 
 | Project | Where | State |
 | --- | --- | --- |
-| Alfred notes (the brain) | `10 Clients/Work/Alfred` | Built 2026-10-24; renamed 2026-10-26; filling in the blanks |
-| Job search | `Alfred/Job Hunt` | _fill in_ |
+| Alfred notes (the brain) | `20 Notes/Alfred` | Built 2026-10-24; renamed 2026-10-26; moved here 2026-10-30 |
+| Job search | `10 Clients/Work/Alfred/Job Hunt` | _fill in_ |
 | ERPNext evaluation for Michael (paid; possible referral at his company) | [[ERPNext]] | Installed locally. Next: review customization options. _Still active?_ |
 | Alfred app (Tauri + Svelte). Budget and Job Hunt are merged in. | `/Users/greg/Code/Local Apps/alfred`, plan in `10 Clients/Work/BWS/Projects/Alfred` | Database is the source of truth for records; light theme first. Shell scaffolded, no features yet. Database engine to confirm (recommended: Postgres). |
 | Local Postgres and the existing budget database | `20 Notes/App Setup Plan` | Postgres 18 is running with 53 accounts and 261 transactions. Moves into Alfred as the `budget` schema. |
