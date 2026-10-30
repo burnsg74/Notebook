@@ -1,7 +1,9 @@
 ---
-note_type: Service
-created: 2026-08-16 12:48
+note_type: Note
+created: 2026-10-04 11:52
 ---
+>  Note-taking and personal knowledge base app
+
 [Obsidian](https://obsidian.md) is a **markdown-based note-taking app** that helps you build a personal knowledge base by linking notes together. It stores files locally on your device, supports plugins and themes, and is popular for **PKM, writing, and research**.
 
 ---

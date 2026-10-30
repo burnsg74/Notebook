@@ -1,5 +1,5 @@
 ---
-note_type: notes
+note_type: Note
 created: 2026-10-16 06:14
 updated: 2026-10-17
 ---

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "10 Projects/Budget Notes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Budget Notes"
             }
           }
         ]
@@ -166,8 +166,11 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "7b9118708db7324d",
+  "active": "7a1bbbd719bc7720",
   "lastOpenFiles": [
+    "Home.md",
+    "10 Clients/Work/Alfred/01 About Me.md",
+    "10 Clients/Work/Alfred/00 Start Here.md",
     "10 Clients/Work/Alfred/12 Work Systems.md",
     "10 Clients/Work/Alfred/11 Open Questions.md",
     "10 Clients/Work/Personal System/01 About Me.md",
@@ -201,10 +204,7 @@
     "10 Clients/Work/Alfred/Job Hunt/5-Notes/Skill gaps.md",
     "10 Clients/Work/Alfred/Job Hunt/5-Notes/Job Search Problem.md",
     "10 Clients/Work/Alfred/Job Hunt/5-Notes/LinkedIn Posts",
-    "10 Clients/Work/Alfred/Job Hunt/5-Notes/Interview Prep Guide.md",
-    "10 Clients/Work/Alfred/Job Hunt/5-Notes/Interview Practice.md",
     "10 Clients/Work/Alfred/Job Hunt/5-Notes/2-Interviewing",
-    "10 Clients/Work/Alfred/Job Hunt/2-Job Boards/4 - Linkedin.md",
     "10 Clients/Work/Job Hunt/9-Files/me.png"
   ]
 }

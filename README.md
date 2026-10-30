@@ -4,19 +4,24 @@ Personal knowledge vault. Markdown files are the record. Each note has YAML fron
 
 ## Folders
 
-| Folder | What goes here | `note_type` | Template |
-| --- | --- | --- | --- |
-| `00 Inbox` | Unsorted capture | `inbox` | `Templates/Inbox.md` |
-| `10 Clients` | Client, project, and job-hunt work | `Client`, `Project`, `Task`, `Job Board`, `Prompt`, `Contact`, `Note` | See below |
-| `20 Notes` | One evergreen note per tool or topic | `Note` | `Templates/Note.md` |
-| `30 Learning` | Learning material | `Learning` | `Templates/Learning.md` |
-| `40 How To` | Procedures | `How To` | `Templates/How To.md` |
-| `50 Research` | Research still being sorted | `Research` | `Templates/Research.md` |
-| `60 Services Tools` | Accounts and how a service is used | `Service` | `Templates/Service.md` |
-| `70 Reference` | Stable reference, when a note is ready to move here | `Reference` | `Templates/Reference.md` |
-| `80 Contacts` | People | `Contact` | `Templates/Contact.md` |
-| `90 Archive` | Finished or dropped | `Archive` | `Templates/Archive.md` |
-| `Templates` | Note templates | — | — |
+| Folder | What goes here | Template |
+| --- | --- | --- |
+| `00 Inbox` | Unsorted capture (`note_type: inbox`) | `Templates/Inbox.md` |
+| `10 Clients` | Client, project, and job-hunt work | See below |
+| `20 Notes` | Evergreen notes of every kind; type is `note_type` in frontmatter | Pick the template that matches the type |
+| `90 Archive` | Finished or dropped (`note_type: Archive`) | `Templates/Archive.md` |
+| `Templates` | Note templates | — |
+
+`note_type` values used in `20 Notes`:
+
+| `note_type` | Meaning | Template |
+| --- | --- | --- |
+| `Note` | One evergreen note per tool or topic | `Templates/Note.md` |
+| `Learning` | Learning material | `Templates/Learning.md` |
+| `How To` | Procedures | `Templates/How To.md` |
+| `Research` | Research still being sorted | `Templates/Research.md` |
+| `Service` | Accounts and how a service is used | `Templates/Service.md` |
+| `Reference` | Stable reference | `Templates/Reference.md` |
 
 Inside `10 Clients`, use the template that matches the note:
 

@@ -1,7 +1,9 @@
 ---
-note_type: Service
-created: 2026-08-16 12:48
+note_type: Note
+created: 2026-10-04 12:05
 ---
+>  Fast, collaborative code editor written in Rust
+
 **"Code at the speed of thought."**; high-performance, multiplayer code editor built by the creators of Atom and Tree-sitter (Zed Industries). [Zed IDE](https://zed.dev/)
 
 ---

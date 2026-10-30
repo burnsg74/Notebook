@@ -17,10 +17,10 @@ Before changing the vault, read `10 Clients/Work/Alfred/00 Start Here.md`. It ma
 
 - `00 Inbox` — unsorted capture. New captures use `Templates/Inbox.md` (`note_type: inbox`).
 - `10 Projects` — work with an outcome. Open that folder's project note first.
-- `20 Notes` — one evergreen note per tool or topic (for example Cursor IDE, Raycast, AI). Use `Templates/Note.md` (`note_type: Note`) and start the body with a one-line `>` description.
+- `20 Notes` — evergreen notes of every kind. Classify with `note_type` in frontmatter (`Note`, `Learning`, `How To`, `Research`, `Service`, `Reference`). Pick the matching template under `Templates/`. For `Note`, start the body with a one-line `>` description.
 - `90 Archive` — finished or dropped.
-- `Templates` — note templates: `Inbox.md` and `Note.md`.
+- `Templates` — note templates; each sets `note_type`.
 
 ## Leave alone until Alfred decides it
 
-Do not add learning subjects or a custom automation layer. App scope and build order live in `10 Clients/Work/Alfred/07 Tool Ideas.md`; do not start a module it hasn't scheduled. A note in `20 Notes` is reference, not a learning subject: do not add level or practice tracking to it.
+Do not add learning subjects or a custom automation layer. App scope and build order live in `10 Clients/Work/Alfred/07 Tool Ideas.md`; do not start a module it hasn't scheduled. A `note_type: Note` file is reference, not a learning subject: do not add level or practice tracking to it.

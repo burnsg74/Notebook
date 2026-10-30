@@ -59,3 +59,10 @@ Paste the last week or month of entries with `05 Current Status` and `09 Roadmap
 - 2026-10-26 | decision | Budget and Job Hunt merge into Alfred as modules; one app, not several | goal: apps | why: one place to look; separate apps meant separate places to forget | link: 07 Tool Ideas
 - 2026-10-26 | decision | Light theme first; dark theme later via a second token set | goal: apps | why: ship one theme well; colors live only in CSS variables so dark is a swap | link: 07 Tool Ideas
 - 2026-10-26 | done | Wrote 11 Open Questions and 12 Work Systems; rewrote the Alfred project plan around the database | goal: apps | link: 11 Open Questions
+- 2026-10-29 | done | Updated Inbox local web app notes so the datasource is vault markdown/CSV instead of Postgres | goal: apps | link: 00 Inbox/Local web app setup
+- 2026-10-29 | done | Rewrote Local web app setup for multiple apps: named *.localhost URLs, auto-start, backend only when needed | goal: apps | link: 20 Notes/Local web app setup
+- 2026-10-29 | decision | Local web apps use {app}.localhost via nginx, not 127.0.0.1:port | goal: apps | why: named URLs are easier day to day; ports stay behind nginx for APIs only | link: 20 Notes/Local web app setup
+- 2026-10-29 | decision | Local web app APIs use node:http, not Fastify/Express, unless the API grows enough to need a framework | goal: apps | why: four file endpoints do not justify a framework | link: 20 Notes/Local web app setup
+- 2026-10-29 | decision | Local web frontends default to Vite + Svelte SPA, not SvelteKit | goal: apps | why: static SPA needs no Kit; matches Alfred's frontend choice | link: 20 Notes/Local web app setup
+- 2026-10-29 | decision | Combined Learning, How To, Research, Services Tools, and Reference into `20 Notes`; type is `note_type` in frontmatter, not folder | goal: systems | why: one place to look; folders duplicated what YAML already said | link: README
+- 2026-10-29 | done | Moved those folders into `20 Notes`, merged Obsidian/Warp/Zed service duplicates into the tool notes, updated README and AGENTS | goal: systems | link: 20 Notes
